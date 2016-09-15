@@ -1,0 +1,16 @@
+.middle-x {
+	position: absolute;
+	left: 50%;
+	width: 1px;
+}
+.middle-y {
+	position: absolute;
+	top: 50%;
+	height: 1px;
+}
+
+#LetterBox {
+	font-size: 20em;
+	display: inline-block;
+	margin: -0.5em 0 0 	-0.5em;
+}
